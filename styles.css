@@ -1,0 +1,137 @@
+
+.logo {
+    margin-left: 3rem;
+    margin-top: 1rem;
+    position: absolute;
+}
+
+nav {
+background-color: grey;
+height: 6.5rem;
+}
+
+.navItem1 {
+    position: relative;
+    margin-left: 22rem;
+    margin-top: 2.8rem;
+    color: white;
+    font-family: sans-serif;
+    display: inline-block;
+}
+
+.navItem2 {
+    position: relative;
+    margin-left: 2rem;
+    
+    color: white;
+    font-family: sans-serif;
+    display: inline-block;
+}
+
+.navItem3 {
+    position: relative;
+    margin-left: 2rem;
+    
+    color: white;
+    font-family: sans-serif;
+    display: inline-block;
+}
+
+.navItem4 {
+    position: relative;
+    margin-left: 2rem;
+   
+    color: white;
+    font-family: sans-serif;
+    display: inline-block;
+}
+
+.heroBox {
+    margin-left: 3rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    position: relative;
+}
+
+.subBanner1 {
+    margin-left: 3rem;
+    margin-top: 1rem;
+    margin-right: 1.6rem;
+    position: relative;
+    display: inline-block;
+}
+
+.subBanner2 {
+    /* margin-left: 1rem; */
+    margin-top: 1rem;
+    margin-right: 1.6rem;
+    position: relative;
+    display: inline-block;
+}
+
+.subBanner3 {
+    /* margin-left: 1rem; */
+    margin-top: 1rem;
+    margin-right: 1.6rem;
+    position: relative;
+    display: inline-block;
+}
+
+.featuredSection {
+    margin-left: 3rem;
+    margin-top: 1rem;
+    
+    position: relative;
+    display: inline-block;
+}
+
+h3.featuredSectionHeading {
+
+    font-size:22px;
+    color: rgb(148, 81, 81);
+    font-family: sans-serif;
+    display:inline-block;
+    position: absolute;
+    
+    
+}
+
+p {
+    color: rgb(111, 233, 40);
+    font-family: sans-serif;
+    position: relative;
+    overflow: auto;
+}
+
+.articleColumn {
+    /* margin-left: 1rem;
+    margin-bottom: 9.5rem; */
+    overflow: auto;
+    display: inline-block;
+    /* float: right; */
+    width:400px;
+    height: 400px;
+    /* float:right; */
+}
+
+.brentButton {
+    background-color: grey;
+    border-radius: 6px;
+    text-align: center;
+    font-size:20px;
+    padding: 15px 78px;
+    transition: 350ms;
+    display: inline-block;
+    position:relative;
+        
+}
+
+.brentButton:hover {
+    background-color: rgb(156, 49, 49);
+
+}
+
+.bottomBar {
+    background-color: grey;
+    height: 6.5rem;
+}
